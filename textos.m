@@ -1,0 +1,2 @@
+lower("HOLA")
+upper("hola")
